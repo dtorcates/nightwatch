@@ -1,0 +1,49 @@
+12:25:42.432 INFO - Launching a standalone Selenium Server
+12:25:42.845 INFO - Java: Oracle Corporation 25.111-b14
+12:25:42.846 INFO - OS: Windows 7 6.1 x86
+12:25:42.879 INFO - v2.53.1, with Core v2.53.1. Built from revision a36b8b1
+12:25:43.046 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+12:25:43.046 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+12:25:43.068 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform VISTA
+12:25:43.069 INFO - Driver class not found: org.openqa.selenium.htmlunit.HtmlUnitDriver
+12:25:43.069 INFO - Driver provider org.openqa.selenium.htmlunit.HtmlUnitDriver is not registered
+12:25:43.600 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+12:25:43.600 INFO - Selenium Server is up and running
+12:25:44.640 INFO - Executing: [new session: Capabilities [{silent=true, acceptSslCerts=true, marionette=true, name=Test Ware, browserName=chrome, javascriptEnabled=true, platform=ANY}]])
+12:25:44.698 INFO - Creating a new session for Capabilities [{silent=true, acceptSslCerts=true, marionette=true, name=Test Ware, browserName=chrome, javascriptEnabled=true, platform=ANY}]
+Starting ChromeDriver 2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed) on port 14501
+Only local connections are allowed.
+12:25:50.569 INFO - Done: [new session: Capabilities [{silent=true, acceptSslCerts=true, marionette=true, name=Test Ware, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
+12:25:50.606 INFO - Executing: [get: https://tree.taiga.io/login?next=%252Fdiscover])
+12:26:19.988 INFO - Done: [get: https://tree.taiga.io/login?next=%252Fdiscover]
+12:26:20.023 INFO - Executing: [find elements: By.cssSelector: body])
+12:26:20.118 INFO - Done: [find elements: By.cssSelector: body]
+12:26:20.159 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on XP (ea0aae58b1773cdeb34611c00ab3ffc9)] -> css selector: body]])
+12:26:20.217 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on XP (ea0aae58b1773cdeb34611c00ab3ffc9)] -> css selector: body]]
+12:26:20.255 INFO - Executing: [find elements: By.cssSelector: body])
+12:26:20.286 INFO - Done: [find elements: By.cssSelector: body]
+12:26:20.293 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on XP (ea0aae58b1773cdeb34611c00ab3ffc9)] -> css selector: body]])
+12:26:20.331 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on XP (ea0aae58b1773cdeb34611c00ab3ffc9)] -> css selector: body]]
+12:26:20.385 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:20.451 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:20.962 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:20.994 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:21.513 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:21.544 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:22.064 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:22.097 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:22.619 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:22.657 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:23.177 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:23.193 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:23.721 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:23.777 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:24.285 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:24.318 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:24.845 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:24.880 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:25.392 INFO - Executing: [find elements: By.cssSelector: input[name=username]])
+12:26:39.283 INFO - Done: [find elements: By.cssSelector: input[name=username]]
+12:26:39.319 INFO - Executing: [delete session: 5b79a1fd-e36f-4211-bd20-da233cce41c1])
+12:26:41.143 INFO - Done: [delete session: 5b79a1fd-e36f-4211-bd20-da233cce41c1]

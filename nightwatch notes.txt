@@ -1,0 +1,26 @@
+    /* Android
+
+ "android" : {
+        "desiredCapabilities": {
+            "browserName": "android",
+            "platformName": "ANDROID",
+            "deviceName": "",
+            "version": ""
+        }
+    },
+
+    */  
+	
+	//Ejecutar comando  en paralelo
+	nightwatch -e default,chrome  
+
+
+    // ejecutar comando para Android
+    nightwatch -c nightwatch.json -e android
+
+    // ejecutar un comando normal 
+	
+	para que se ejecute en firefox debes descargar geckodriver
+
+    // ejecutar mis pruebas 
+    nightwatch -e chrome  tests/test_ware.js

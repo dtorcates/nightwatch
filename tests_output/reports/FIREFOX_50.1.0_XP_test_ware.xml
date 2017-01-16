@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test_ware"
+    errors="0" failures="1" hostname="" id="" package="test_ware" skipped="0"
+    tests="1" time="227.6" timestamp="Mon, 09 Jan 2017 16:10:35 GMT">
+  
+    <testcase name="Demo ToolsQa" time="227.6" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Testing if attribute checked of &lt;#profession-0&gt; equals &quot;true&quot;. Element does not have a checked attribute.">    at inputfields (C:\Project\pages\toolsqa.js:44:15)
+    at Object.Demo ToolsQa (C:\Project\tests\test_ware.js:73:20)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

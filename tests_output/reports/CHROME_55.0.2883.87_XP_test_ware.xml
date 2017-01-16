@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="test_ware"
+    errors="0" failures="1" hostname="" id="" package="test_ware" skipped="1"
+    tests="2" time="57.10" timestamp="Fri, 13 Jan 2017 16:25:43 GMT">
+  
+    <testcase name="Demo Taiga" time="57.10" assertions="3">
+
+    
+
+      <failure message="Timed out while waiting for element &lt;input[name=username]&gt; to be present for 5000 milliseconds.">    at login (C:\Project\pages\taiga.js:18:8)
+    at Object.Demo Taiga (C:\Project\tests\test_ware.js:60:18)</failure>
+
+    
+    </testcase>
+  
+  
+    
+    <testcase
+      name="Demo ToolsQa">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
